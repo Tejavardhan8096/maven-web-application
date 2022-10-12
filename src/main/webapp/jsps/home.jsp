@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Tejavardhan- Home Page</title>
-<link href="https://pbs.twimg.com/profile_images/1281508263243046912/PgMXnD4q_400x400.jpg" rel="icon">
+<img href="https://pbs.twimg.com/profile_images/1281508263243046912/PgMXnD4q_400x400.jpg" rel="icon">
 </head>
 </head>
 <body>

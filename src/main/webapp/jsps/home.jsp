@@ -4,34 +4,34 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
+<title>Tejavardhan- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies - GitHub Webhook demo  .....</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a DevOps Master Program demo on May 21th at 7 PM IST for new batch. , This is a weekdays batch - 7.30 AM to 9 AM IST . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">Welcome to Tejavardhan - GitHub Webhook demo  .....</h1>
+<h1 align="center"> Welcome to Teja Software Solutions.......We have a openings for DevOps Engineers for new batch in this week. Very Good Opurtunity for DevOps Engineers with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
+		Teja Software Solutions, 
 		Martha Halli,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		+91-8096314243,
+		tejasoftwaresolutions@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:tejasoftwaresolutions@gmail.com">Mail to Teja Software Solutions</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center>Teja Software Technologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2021 by <a href="http://tejasoftwaretechnologies.com/">Teja Software Technologies</a> </small></p>
 
 </body>
 </html>

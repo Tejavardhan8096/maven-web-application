@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Tejavardhan- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="TEJA" rel="icon">
 </head>
 </head>
 <body>
@@ -14,7 +14,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="TEJA" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Teja Software Solutions, 

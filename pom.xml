@@ -104,7 +104,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Walmart Snapshot Nexus Repository </name>
+	      <name>Walmart Snapshot Nexus Repository</name>
 	      <url>http://3.110.168.130:9980/Tejavardhan/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    

@@ -2,7 +2,7 @@ node{
     
     def mavenHome = tool name: "Maven3.8.5"    
     
-    properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '5', daysToKeepStr: '', numToKeepStr: '5')), [$class: 'JobLocalConfiguration', changeReasonComment: ''], pipelineTriggers([cron('* * * * *'), pollSCM('* * * * *')])])
+    properties([buildDiscarder(logRotator(artifactDaysToKeepStr: '', artifactNumToKeepStr: '3', daysToKeepStr: '', numToKeepStr: '3')), [$class: 'JobLocalConfiguration', changeReasonComment: ''], pollSCM('* * * * *')])])
     
     stage('checkout code')
     {
@@ -12,11 +12,11 @@ node{
     {
         sh "${mavenHome}/bin/mvn clean package"
     }
-    /*
     stage('Execute SonarQube')
     {
         sh "${mavenHome}/bin/mvn sonar:sonar"
     }
+    /*
     stage('Upload Artfcts into Nexus')
     {
         sh "${mavenHome}/bin/mvn deploy"

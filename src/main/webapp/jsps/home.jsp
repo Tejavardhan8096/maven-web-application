@@ -1,13 +1,13 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<span>
+	<img src="https://pbs.twimg.com/profile_images/1281508263243046912/PgMXnD4q_400x400.jpg" alt="" width="100">
+</span>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Tejavardhan - Home Page</title>
-<span>
-	<img src="https://pbs.twimg.com/profile_images/1281508263243046912/PgMXnD4q_400x400.jpg" alt="" width="100">
-</span>
 </head>
 <body>
 <h1 align="center">Tejavardhan Software Solutions Pvt Ltd..</h1>

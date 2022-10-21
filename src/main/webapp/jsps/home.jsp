@@ -4,8 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tejavardhan- Home Page</title>
-</head>
+<title>Tejavardhan - Home Page</title>
+<span>
+	<img src="https://pbs.twimg.com/profile_images/1281508263243046912/PgMXnD4q_400x400.jpg" alt="" width="100">
+</span>
 </head>
 <body>
 <h1 align="center">Tejavardhan Software Solutions Pvt Ltd..</h1>
